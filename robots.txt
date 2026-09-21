@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chat-gpt-codex.github.io/sitemap.xml
